@@ -4,3 +4,10 @@ Since they were web fonts the character set is rather limited.
 This project was sort of a test run for converting the full GF fonts into variable fonts.  
 The BGR characters in these fonts will be added as a localization (`loclBGR`) in the full versions.  
 
+Formats included: OpenType-PS and OpenType-TT, variable and static, `.otf` and `.ttf` files. All those formats are included in the release ZIP file.    
+   
+
+![ABGRSerif Tests LibreOffice page 1 cropped](docs/ABGRSerif-Tests-LibreOffice-page-1-cropped.png)
+    
+    
+![ABGRSerif Tests LibreOffice page 2 cropped](docs/ABGRSerif-Tests-LibreOffice-page-2-cropped.png)

@@ -6,6 +6,9 @@ The BGR characters in these fonts will be added as a localization (`loclBGR`) in
 
 Formats included: OpenType-PS and OpenType-TT, variable and static, `.otf` and `.ttf` files. All those formats are included in the release ZIP file.    
    
+Download ZIP here:  
+https://github.com/kenmcd/ABGRSerif-Font/tree/master/releases  
+GitHub kept rejecting the ZIP upload on the Release page (with no explanation), so I just uploaded it to a folder.   
 
 ![ABGRSerif Tests LibreOffice page 1 cropped](docs/ABGRSerif-Tests-LibreOffice-page-1-cropped.png)
     
